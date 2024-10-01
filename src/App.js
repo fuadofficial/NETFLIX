@@ -17,6 +17,3 @@ function App() {
 }
 
 export default App;
-
-
-//github password:   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
