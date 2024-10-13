@@ -16,12 +16,13 @@
 
 
 
-#Netflix Clone in React
+
+# Netflix Clone in React
 
 Netflix Clone is a React-based web application that mimics the functionality and design of Netflix. Users can browse through movies, and clicking on any movie card will open a short video or trailer for that movie.
 
 
-##Features
+## Features
 
 
 **🎥 Movie List:** Browse through a collection of movies with interactive movie cards.
@@ -32,7 +33,7 @@ Netflix Clone is a React-based web application that mimics the functionality and
 
 **💡 Built with React:** Utilizing React Hooks and state management for smooth user experience.
 
-##Technologies Used
+## Technologies Used
 
 **React:** Frontend framework
 
